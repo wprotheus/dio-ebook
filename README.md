@@ -16,7 +16,7 @@ Atividade executada conforme orientações abaixo, retiradas do [Descrição dos
 ### 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
-- [MidJourney](https://www.midjourney.com/app/)
+- [MidJourney](https://www.midjourney.com/)
 
 ### Prompts
 
